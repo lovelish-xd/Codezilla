@@ -15,19 +15,6 @@ Codezilla is a responsive blog website created using the Bootstrap framework. It
 - Search functionality: Users can search for specific blog posts using keywords or tags to quickly find relevant content.
 - Admin panel: Administrators have access to an admin panel where they can manage user accounts, blog posts, categories, and comments.
 
-## Installation
-
-To set up Codezilla on your local machine, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/codezilla.git`
-2. Navigate to the project directory: `cd codezilla`
-3. Install the dependencies: `npm install`
-4. Configure the database: Open the `config.js` file and update the database connection details.
-5. Run the application: `npm start`
-6. Open your browser and visit `http://localhost:3000` to access the Codezilla website.
-
-Please note that you need to have Node.js and npm (Node Package Manager) installed on your machine to run the application.
-
 ## Usage
 
 Once you have Codezilla up and running, you can perform the following actions:
@@ -51,10 +38,6 @@ We welcome contributions to the Codezilla project. If you find any bugs, have fe
 6. Open a pull request on GitHub, providing a clear description of your changes.
 
 We appreciate your contributions to making Codezilla even better!
-
-## License
-
-Codezilla is released under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code for personal and commercial purposes.
 
 ## Acknowledgements
 
